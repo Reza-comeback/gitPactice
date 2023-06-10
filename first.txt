@@ -1,1 +1,2 @@
 Learning git is awesome.
+hey this is branch B. hope you learning git.
