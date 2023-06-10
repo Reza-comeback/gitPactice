@@ -1,2 +1,6 @@
 Learning git is awesome.
+<<<<<<< HEAD
 work untill you success.
+=======
+hey this is branch B. hope you learning git.
+>>>>>>> branchB
